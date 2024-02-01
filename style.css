@@ -1,0 +1,178 @@
+.PopDesign{
+    height: 700px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    background-image: url(images/pop-bg.jpg);
+    background-size: cover;
+}
+.firstbox{
+    height: 500px;
+    width: 1000px;
+    /* background-color: white;  */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 100px;
+}
+.secondbox{
+    height: 300px;
+    width: 350px;
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 150px;
+}
+.one{
+    height: 80px;
+    width: 250px;
+    /* background-color: white;  */
+    margin-left: 105px;
+}
+.two{
+    height: 80px;
+    width: 350px;
+    /* background-color: brown; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.boxintwo{
+    /* height: 1px; */
+    width: 250px;
+    border: 1px solid white;
+}
+.secondintwo{
+    height: 20px;
+    width: 100px;
+    background-color: white;
+}
+.one p{
+    font-size: 50px;
+    font-family: inherit;
+    color: white;
+}
+.three{
+    height: 100px;
+    width: 400px;
+    /* background-color: white;  */
+}
+.three p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+    font-weight: lighter;
+    line-height: 40px;
+    text-align: right;
+}
+.thirdbox{
+    height: 450px;
+    width: 450px;
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.columnbox1{
+    height: 200px;
+    width: 390px;
+    /* background-color: white;  */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.rowbox1{
+    height: 150px;
+    width: 180px;
+    /* background-color: white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border: 1px solid white;
+}
+.rowbox1 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    top: 90px;
+    position: absolute;
+    
+}
+.rowbox2{
+    height: 150px;
+    width: 180px;
+    /* background-color: grey;  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border: 1px solid white;
+}
+.rowbox2 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    top: 90px;
+    position: absolute;
+}
+.columnbox2{
+    height: 200px;
+    width: 390px;
+    /* background-color: white; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.rowbox3{
+    height: 150px;
+    width: 180px;
+    /* background-color: grey;  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border: 1px solid white;
+}
+.rowbox3 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    top: 90px;
+    position: absolute;
+}
+.rowbox4{
+    height: 150px;
+    width: 180px;
+    /* background-color: grey;  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border: 1px solid white;
+}
+.rowbox4 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    top: 90px;
+    position: absolute;
+}
